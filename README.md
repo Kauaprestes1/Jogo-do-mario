@@ -1,4 +1,3 @@
 # Jogo-do-mario
-jogo do mario com html, css e JS 
 
-<img src="https://dropsdejogos.uai.com.br/wp-content/uploads/sites/10/2020/08/super-mario-950x700.jpg">
+![image](https://user-images.githubusercontent.com/104653019/217340145-ffc3fcb8-9f10-43cd-b36d-a5119c1dac63.png)
